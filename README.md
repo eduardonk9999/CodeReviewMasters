@@ -21,3 +21,8 @@
 5. Junte-se à nossa comunidade no fórum de discussão para discussões e dúvidas relacionadas à revisão de código.
 
 Prepare-se para se tornar um mestre na arte da revisão de código com o CodeReviewMasters! 🌟
+
+
+## Exercícios
+
+- [Exercício JavaScript: Melhore a Eficiência do Código](exercicio_js/README.md)
