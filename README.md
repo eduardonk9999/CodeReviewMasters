@@ -25,4 +25,4 @@ Prepare-se para se tornar um mestre na arte da revisão de código com o CodeRev
 
 ## Exercícios
 
-- [Exercício JavaScript: Melhore a Eficiência do Código](exercicio_js/README.md)
+- [Exercício JavaScript: Melhore a Eficiência do Código](exercicios/README.md)
