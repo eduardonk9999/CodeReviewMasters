@@ -1,5 +1,7 @@
 # CodeReviewMasters - Aprenda a Arte da Revisão de Código
 
+<img src="https://github.com/eduardonk9999/CodeReviewMasters/blob/main/LogoCRMasters.png">
+
 🚀 O CodeReviewMasters é um projeto dedicado a transformar desenvolvedores em mestres da revisão de código. A revisão de código é uma prática essencial para o desenvolvimento de software de alta qualidade, e este repositório é o seu laboratório de aprendizado.
 
 ## Recursos do Projeto
