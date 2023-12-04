@@ -25,6 +25,6 @@
 Prepare-se para se tornar um mestre na arte da revisão de código com o CodeReviewMasters! 🌟
 
 
-## Exercícios
+## Exercícios.
 
 - [Exercício JavaScript: Melhore a Eficiência do Código](exercicios/README.md)
